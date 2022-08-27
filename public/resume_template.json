@@ -1,0 +1,59 @@
+{
+	"profile": {
+		"name": "",
+		"role": "",
+		"contact": {
+			"email": "",
+			"address": "",
+			"location": "",
+			"phone": ""
+		},
+		"img": {
+			"src": ""
+		},
+		"linkedIn": "",
+		"gitHub": ""
+	},
+	"summary": "",
+	"education": [
+		{
+			"institute": "",
+			"course": "",
+			"specialization": "",
+			"location": "",
+			"timeline": "",
+			"gpa": ""
+		}
+	],
+	"experience": [
+		{
+			"designation": "",
+			"company": "",
+			"role": "",
+			"about": "",
+			"responsibilities": [
+				""
+			],
+			"location": "",
+			"timeline": {
+				"started": "",
+				"ended": ""
+			}
+		}
+	],
+	"works": [
+		{
+			"name": "",
+			"about": "",
+			"roles": [
+				""
+			]
+		}
+	],
+	"skills": [
+		""
+	],
+	"certifications": [
+		""
+	]
+}

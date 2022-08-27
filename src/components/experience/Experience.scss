@@ -1,0 +1,38 @@
+.responsibilities {
+	.responsibilities-list-item {
+		// list-style-type: '\2714';
+		list-style-type: disc;
+		// padding-inline-start: 5px;
+	}
+}
+
+.experience-item {
+	.company-details {
+		font-style: italic;
+	}
+
+	.designation,
+	.timeline {
+		display: inline-block;
+	}
+
+	.timeline {
+		font-size: 12px;
+		font-style: italic;
+	}
+}
+
+.experience-item-row {
+
+	.roles,
+	.responsibilities {
+		margin-top: 5px;
+	}
+
+	.designation,
+	.roles > h4,
+	.responsibilities > h4 {
+		margin: 0;
+	}
+
+}

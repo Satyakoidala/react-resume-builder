@@ -1,0 +1,25 @@
+// .column {
+// 	display: flex;
+// }
+
+.flex-row {
+	display: flex;
+}
+
+.layout {
+	width: 794px;
+	height: 1130px;
+	// border: 2px solid black;
+	padding: 0;
+	margin: 0 auto;
+}
+
+.leftLayout {
+	width: 40%;
+	margin-right: 10px;
+}
+
+.rightLayout {
+	width: calc(100% - 40%);
+	margin-left: 10px;
+}

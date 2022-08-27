@@ -1,0 +1,18 @@
+.works-list {
+	.works-list-item {
+		margin-bottom: 10px;
+	}
+
+	.work-details > .name {
+		margin: 0;
+	}
+
+	.roles > .role-tagname {
+		font-size: 12px;
+		display: inline-block;
+		padding: 3px;
+		border: 1px solid black;
+		border-radius: 5px;
+		margin: 3px;
+	}
+}

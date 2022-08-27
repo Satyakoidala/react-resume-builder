@@ -1,0 +1,43 @@
+.profile {
+	width: 80%;
+
+	.profileName {
+		// letter-spacing: 2px;
+		word-spacing: 2px;
+		font-size: 28px;
+		font-weight: 500;
+		padding: 0;
+		margin: 0;
+	}
+
+	.tagName {
+		// letter-spacing: 2px;
+		word-spacing: 2px;
+		font-size: 20px;
+		font-weight: 400;
+		padding: 0;
+		margin: 0;
+	}
+
+	.more-info {
+		font-size: 14px;
+		font-weight: 450;
+		// letter-spacing: 1px;
+		vertical-align: middle;
+	}
+
+	.phone,
+	.location {
+		margin-left: 30px;
+	}
+}
+
+.profile-img {
+	width: 20%;
+
+	img {
+		width: 110px;
+		height: 110px;
+		float: right;
+	}
+}
